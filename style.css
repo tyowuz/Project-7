@@ -25,6 +25,10 @@
     font-weight: bold;
     margin-left: 27.5%;
 }
+.material-icons{
+    float: left;
+    margin-left: 5px;
+}
 .sub3{
     margin: 0px 14px 8px 0px; 
     float: right;
@@ -42,11 +46,11 @@
     float: left;
     font-weight: bolder; 
     font-family: sans-serif;
-    margin: 0px 0px 0px 40px;
+    margin: 0px 0px 0px 20px;
 }
 .sub2{
     float: left;
-    margin: 3px 0px 0px 40px;
+    margin: 3px 0px 0px 20px;
 }
 .sub3{
     text-align: right;
