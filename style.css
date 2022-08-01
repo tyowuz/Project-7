@@ -13,13 +13,16 @@
 .a2{
     width: 30vw;
     height: 105px;
-}
-.img{
-    width: 30vw;
-    height: 105px;
+    background-image: url(/Project-7/illustration-hero.svg);
+    background-size: cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }
+/* .img{
+    width: 30vw;
+    height: 105px;
+    
+} */
 .o{
     font-family: sans-serif;
     font-weight: bold;
